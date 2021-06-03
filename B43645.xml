@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Phaenix Britannicus, or, London re-built in a panegyrick poem on that ancient metropolis, now Englands glory, and the vvorlds wonder / by J. Phillips.</title>
+            <author>Phillips, John, 1631-1706.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43645</idno><idno type="EEBO-CITATION">625258825</idno>
+  <idno type="VID">211304</idno>
+  <idno type="EEBO-PROQUEST">2240868158</idno>
+  
+            <idno type="OCLC"> 625258825</idno>
+            <idno type="OCLC">ocn 625258825</idno>
+            <idno type="STC">Wing P2095aA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211304)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2969:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Phaenix Britannicus, or, London re-built in a panegyrick poem on that ancient metropolis, now Englands glory, and the vvorlds wonder / by J. Phillips.</title>
+                  <author>Phillips, John, 1631-1706.</author>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.J. for S. Speed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"March 20. Licensed Roger L'estrange."</note>
+                  <note>Errata on p. [20].</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211304:1"/>
+            <pb facs="tcp:211304:2"/>
+            <p>
+               <pb facs="tcp:211304:2"/> Phaenix Britannicus: OR, London Re-built.</p>
+            <p>IN A PANEGYRICK POEM On that Ancient METROPOLIS, NOW Englands Glory, And the VVorlds Wonder.</p>
+            <p>By <hi>J. Phillips.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Ex Cinere Floresco.</hi>
+               </p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>March</hi> 20. </date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Licensed</hi>
+                        </p>
+                        <closer>
+                           <signed> Roger L'estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. J.</hi> for <hi>S. Speed.</hi> 1672.</p>
+            <pb facs="tcp:211304:3"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:211304:3"/>
+            <head>
+               <hi>TO THE RIGHT VVORSHIPFUL Sir Robert Viner, Knight and Baronet, And Alderman of the City of</hi> London.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough Dedications, those especially that usher Poetry into the World, are commonly repu<g ref="char:EOLhyphen"/>ted the Authors low design of Profit: Yet I hope this may claim an Exception from the Gene<g ref="char:EOLhyphen"/>ral Rule, when I aver that it was never the intent or meaning of the <hi>Composure.</hi> However when that <hi>Famous Elegy</hi> made upon the <hi>Cities Death,</hi> thought it not a thing unseasonable to trouble the whole Body of the City then in Mourning, it may perhaps seem now the less impertinent, if this <hi>Panegyrick</hi> seek out for one single Patron to whom it may as freely communicate the General Joy now rising from the Ci<g ref="char:EOLhyphen"/>ties Resurrection. A presumption that I hope may gain pardon, though from nothing more than the con<g ref="char:EOLhyphen"/>fidence it has in the choice of such an eminent Person,
+<pb facs="tcp:211304:4"/> whose industrious Care in the designing, was equally deserving as your known Expences have been magni<g ref="char:EOLhyphen"/>ficent in finishing the famous subject of the following Poem: Which if it gain favour at your hands for the <hi>Subjects</hi> sake, is all the Author can expect who has no other Intercessour but that (as he hopes) prevailing charm to obtain his own pardon, and your leave to subscribe himself,</p>
+            <closer>
+               <signed>Your most humble Servant. J. Phillips.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:211304:4"/>
+            <head>Phaenix Britannicus: OR, LONDON RE-BUILT.</head>
+            <lg>
+               <l>TAke flight Immortal Fame, and use thy skill</l>
+               <l>To wake the drowsie World, thy Trumpet fill</l>
+               <l>With the loud breath of all the Winds, that they</l>
+               <l>May the great News to all the Earth convey:</l>
+               <l>Such News as all the world ne're heard before;</l>
+               <l>Which had the <hi>PREACHER</hi> known, he had known more.</l>
+            </lg>
+            <lg>
+               <l>Had ye but seen fair <hi>LONDONS</hi> lofty Tow'rs,</l>
+               <l>Almost as antient, as the Deludg'd Hours,</l>
+               <l>Hid in a Cloud of Fire, that still prest on,</l>
+               <l>By Heav'ns full Bellows to destruction blown,</l>
+               <l>While the turmoyled Throng, as if the Flames</l>
+               <l>Had chil'd their souls, stood all like men in dreams</l>
+               <l>Till to prevent the Foes immediate Rack,</l>
+               <l>They fall to work, and their own City sack;</l>
+               <pb facs="tcp:211304:5"/>
+               <l> Had ye then thought on <hi>Troy,</hi> or <hi>Corinths</hi> Fall,</l>
+               <l>This had out-history'd, and silenc'd all.</l>
+               <l>
+                  <hi>Carthage</hi> in smoke, a spark; and <hi>Rome's</hi> great Heap</l>
+               <l>Were Mole-hills, to the Ruins of our <hi>CHEAP.</hi>
+               </l>
+               <l>But here's a Wonder makes <hi>Amazement</hi> start,</l>
+               <l>To see the <hi>Temple</hi> of the Nations <hi>Heart</hi>
+               </l>
+               <l>In <hi>three Days</hi> ruin'd, and in <hi>three Days</hi> rear'd,</l>
+               <l>As if <hi>Divinity</hi> had now appear'd,</l>
+               <l>To act what once to scornful man it spoke.</l>
+               <l>For what but <hi>Heav'n-born Zeal</hi> could then provoke</l>
+               <l>That willingness, which did all Hearts inspire?</l>
+               <l>As if what <hi>Fire</hi> had wasted, should by <hi>Fire</hi>
+               </l>
+               <l>Again be rear'd, and the proud Element</l>
+               <l>So fierce of late, were now grown penitent.</l>
+               <l>The King himself is <hi>Prophet</hi> too, and <hi>Priest,</hi>
+               </l>
+               <l>Foretels it's Grandeur, and the Labor blest.</l>
+            </lg>
+            <lg>
+               <l>He bid the Kingdom's <hi>Body</hi> straight survey</l>
+               <l>The General Havock, and for Help make way</l>
+               <l>They soon contrive, and shew with high Applause</l>
+               <l>That they could Cities build, as well as Laws.</l>
+               <l>And sure a rare Example t'was to see,</l>
+               <l>Among those Architects of high degree,</l>
+               <l>Contending Art and a Judicious strife</l>
+               <l>To give the City Form, as well as Life;</l>
+               <l>A Life establish'd on the Throne of Right.</l>
+            </lg>
+            <lg>
+               <l>They saw how the mad Fires enraged might,</l>
+               <pb facs="tcp:211304:5"/>
+               <l> Where it had plough'd up Houses and Estates,</l>
+               <l>Had sow'd the Heaps with Seeds of new Debates;</l>
+               <l>Debates, that like the Teeth of <hi>Jason's Men,</hi>
+               </l>
+               <l>No sooner nipt, but they would spring agen.</l>
+               <l>While Law-enriching <hi>Wrong</hi> in Ambush lay</l>
+               <l>On doubtful Interests to make its prey.</l>
+               <l>Leaving no stone unturn'd, that might advance</l>
+               <l>Encroachment on the Poors Inheritance,</l>
+               <l>While your weak Tenant fetter'd in a Lease,</l>
+               <l>Is forc'd to <hi>Chancery,</hi> worse then the Disease;</l>
+               <l>But this our Prudent Overseers foresaw,</l>
+               <l>And therefore to the <note n="(c)" place="margin">
+                     <hi>The Jud<g ref="char:EOLhyphen"/>ges sitting at</hi> Cliffords Inn.</note>
+                  <hi>Magi</hi> of the Law</l>
+               <l>They grant full Pow'r, t'was needless more to say</l>
+               <l>To those they knew could never go astray.</l>
+               <l>It seem'd a labour more than <hi>Hercules</hi>
+               </l>
+               <l>Could undertake, so many minds to please,</l>
+               <l>But they that with an equal vigour stood</l>
+               <l>To order private right, and publick good,</l>
+               <l>To charm <hi>Samballat</hi> with their Equity,</l>
+               <l>That Justice and Convenience soon agree:</l>
+               <l>Those Clamours cease, and all are forward bent</l>
+               <l>Rather to lose, than hinder good intent.</l>
+            </lg>
+            <lg>
+               <l>As when the Sun has warm'd the lively Spring,</l>
+               <l>The painful Bees, obedient to their King,</l>
+               <l>Their <hi>Fragrant Cities</hi> labour to rebuild,</l>
+               <l>Some fetch Materials from the distant Field</l>
+               <pb facs="tcp:211304:6"/>
+               <l> While others plye their busie toyl at home,</l>
+               <l>Till part by part, the lovely Pile become</l>
+               <l>One finish'd Wonder to the curious Eye;</l>
+               <l>So now the People gaining fresh supply</l>
+               <l>Of life and courage from their Soveraign's care,</l>
+               <l>To raise the Structure of an Age prepare.</l>
+               <l>For none but those that saw it, could have thought</l>
+               <l>An Age could in an Age have so much wrought.</l>
+               <l>The willing Woods their massie Timber send,</l>
+               <l>The Fields and Quarries their own Bowels lend</l>
+               <l>T'advance the <hi>Work,</hi> as if the teeming Earth</l>
+               <l>Had now conceiv'd, to give the City <hi>Birth.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And first observing Nature, they contrive</l>
+               <l>To frame the Heart, where life is first alive,</l>
+               <l>
+                  <hi>Gresham</hi> is now repay'd; He bears the <hi>Name;</hi>
+               </l>
+               <l>Set up again to own a <hi>Nobler Frame.</hi>
+               </l>
+               <l>It was a Task too hard for <hi>Mortall</hi> Flame</l>
+               <l>To touch the <hi>Stone</hi> devoted to his <hi>Fame;</hi>
+               </l>
+               <l>As if <note n="(a)" place="margin">
+                     <hi>Tithonus</hi> weary of the long age he had begd of the Gods, was turn'd into a Gras<g ref="char:EOLhyphen"/>hopper. <hi>Gres<g ref="char:EOLhyphen"/>ham's</hi> Arms.</note>
+                  <hi>Tithonus</hi> had bequeath'd the years</l>
+               <l>He begg'd, unto his <hi>Golden Grashoppers.</hi>
+               </l>
+               <l>Nor let this <hi>Pile,</hi> surpassing <hi>his,</hi> seem strange,</l>
+               <l>His was a <note n="(b)" place="margin">Founded in Q. E's time.</note>
+                  <hi>Female,</hi> This a <hi>Male</hi> Exchange.</l>
+               <l>Which first the <hi>King,</hi> the <hi>Kingdoms Soul,</hi> begun,</l>
+               <l>And finish'd, having onely laid one Stone.</l>
+               <l>Next him the <hi>Duke</hi> another Column reares,</l>
+               <l>Himself the <hi>Pillar</hi> of his Brother's Cares;</l>
+               <pb facs="tcp:211304:6"/>
+               <l> Nor would the Valiant <hi>Prince</hi> his labour spare,</l>
+               <l>Follow' by <hi>Albemarle,</hi> a <hi>Third-Rate Star;</hi>
+               </l>
+               <l>He would not fail to lay one stone, that had</l>
+               <l>The Nations <hi>Corner-stone</hi> to us convay'd:</l>
+               <l>A <hi>Structure</hi> sure that never can grow old,</l>
+               <l>When four such <hi>Atlasse's</hi> your weight uphold.</l>
+            </lg>
+            <lg>
+               <l>Here <hi>Honoured Turner</hi> to himself did raise</l>
+               <l>A lasting Record worthy of his Praise;</l>
+               <l>His awful presence would be always by</l>
+               <l>His handy-work advancing with his eye,</l>
+               <l>Untill he saw compleated in his <hi>Year,</hi>
+               </l>
+               <l>The <hi>Publick Trophie</hi> of his <hi>Publick Care.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>View the <hi>Majestick Front,</hi>
+                  <note n="(c)" place="margin">The Royal Exchange.</note> where fixed stand</l>
+               <l>The <hi>Guardian Angels</hi> of our Sea and Land,</l>
+               <l>A <hi>Dorick Miracle,</hi> till mounting farther,</l>
+               <l>Ye spy a Wonder of <hi>Corinthian Order,</hi>
+               </l>
+               <l>Whose lovely <hi>Cornish</hi> the <hi>fair Burthen</hi> bears</l>
+               <l>Where plays within the <hi>Musick of the Sphears,</hi>
+               </l>
+               <l>As if those <hi>Tunes</hi> had been the Builders Boon,</l>
+               <l>To recreate the <hi>Busie</hi> hours of <hi>Noon:</hi>
+               </l>
+               <l>Above, <hi>Time</hi> with a Twofold <hi>Janus Face</hi>
+               </l>
+               <l>Orelooks the City in her <hi>Nuptial Grace,</hi>
+               </l>
+               <l>Reaching his <hi>Fore-top,</hi> unto all hands kind,</l>
+               <l>Or else as if he now had Locks behind.</l>
+            </lg>
+            <lg>
+               <l>Sec the Ascending Steps, that proudly born</l>
+               <l>By their own weight, all underpropment scorn;</l>
+               <pb facs="tcp:211304:7"/>
+               <l> Stones in a League with such contrivance laid,</l>
+               <l>As only for the Throne of <hi>Friendship</hi> made.</l>
+            </lg>
+            <lg>
+               <l>Behold the <hi>Walkes,</hi> where <hi>Traffick,</hi> the <hi>Worlds Friend,</hi>
+               </l>
+               <l>Searches all Nookes, that unto Riches tend;</l>
+               <l>Where every language speaks, and Nations range,</l>
+               <l>The World Epitomiz'd in an <hi>Exchange,</hi>
+               </l>
+               <l>While from the <hi>Vaults</hi> belovv the distant <hi>East,</hi>
+               </l>
+               <l>Pil'd up in ponderous heaps, by heaps opprest,</l>
+               <l>Send forth their spicy Odors to repay</l>
+               <l>The <hi>Freight,</hi> vvith <hi>Incense</hi> offer'd every day.</l>
+            </lg>
+            <lg>
+               <l>From hence let strangers go, and vievv that <hi>Place</hi>
+               </l>
+               <l>Where Justice seated in Majestick Grace,</l>
+               <l>Does right to all her <hi>Freemen</hi> distribute, <note place="margin">Guild-hall.</note>
+               </l>
+               <l>Without the trouble of expensive Suit;</l>
+               <l>Where the <hi>Grave Council</hi> of the City sit</l>
+               <l>In splendid Pomp for such a Senate fit,</l>
+               <l>VVhere they that Built, novv study to preserve,</l>
+               <l>Commanding Laws which they themselves observe</l>
+               <l>There stands the <hi>Lofty Guild,</hi> both Hall and Court</l>
+               <l>A Spacious Pile, vvithout the vain support</l>
+               <l>Of Pillars, only filling room uprear'd,</l>
+               <l>VVhere Order svvay'd by Order vvell prepar'd,</l>
+               <l>Makes Forein eyes behold vvith silent avve</l>
+               <l>Their Kingly Banquets, and their trains of Lavv:</l>
+               <l>A Hall, that in one day more Plenty vvastes,</l>
+               <l>Than <hi>Spains</hi> Dominion in a tvvelve moneth tastes.</l>
+               <pb facs="tcp:211304:7"/>
+               <l> And lest the vvay to Justice should be blind,</l>
+               <l>A <note n="(d)" place="margin">King-street.</note>
+                  <hi>Kingly Street,</hi> and by a <hi>King</hi> design'd,</l>
+               <l>Shews a wide passage to the Judgment-Seat,</l>
+               <l>Adorn'd with Ample Structures, till it meet</l>
+               <l>The Wealthy <hi>Thamesis,</hi> who every year</l>
+               <l>There waits, upon his Silver Back to bear</l>
+               <l>The <hi>Cities Pomp,</hi> confin'd to wait upon</l>
+               <l>The <hi>Guardian</hi> of their large Dominion.</l>
+            </lg>
+            <lg>
+               <l>Old <note n="(e)" place="margin">Ludgate.</note>
+                  <hi>Lud</hi> put on his Ashie Weeds and mourn'd</l>
+               <l>To see his <hi>ancient Gate</hi> to Ashes turn'd:</l>
+               <l>But soon he found his sorrow well repay'd,</l>
+               <l>Finding himself more Gayly since array'd.</l>
+               <l>And now resolves to watch his Gate alone,</l>
+               <l>Since his own Watchmen were so sleepy grown.</l>
+            </lg>
+            <lg>
+               <l>Fair <note n="(f)" place="margin">Temple-Bar.</note>
+                  <hi>Temple-Bar,</hi> looks up with so much State,</l>
+               <l>More like an <hi>Arch of Triumph,</hi> than a <hi>Gate.</hi>
+               </l>
+               <l>A stately <hi>Portal</hi> that lets none pass by,</l>
+               <l>Till it has <hi>parley'd</hi> with the <hi>Gazers eye;</hi>
+               </l>
+               <l>Whence <hi>Admiration</hi> first begins to ride</l>
+               <l>Through all the <hi>Splendour</hi> of the <hi>Cities Pride.</hi>
+               </l>
+               <l>
+                  <hi>Astraea</hi> pleas'd to see her <hi>Followers</hi> care</l>
+               <l>To give her ruin'd Harbour new repair,</l>
+               <l>The <hi>Inner Temple</hi> makes her choicest Court,</l>
+               <l>More grac'd by Honour'd <hi>Bridgemans</hi> wide support.</l>
+            </lg>
+            <lg>
+               <l>Near which appears the Pleasure of the Age,</l>
+               <l>Nobler than <hi>Pompeys</hi> or <hi>Verona's</hi> Stage,</l>
+               <pb facs="tcp:211304:8"/>
+               <l> Where can ye go amiss, but still ye find</l>
+               <l>New Banquets for the greedy eye design'd?</l>
+            </lg>
+            <lg>
+               <l>In a more Royal State, not far from hence</l>
+               <l>
+                  <hi>Bridewell</hi> admires her new Magnificence,</l>
+               <l>Proudly forgets that she is still the Poors,</l>
+               <l>And only listens after Emperours;</l>
+               <l>Thinking the former Tract renew'd again,</l>
+               <l>Some other <hi>Charles</hi> the Fifth to entertain.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="(g)" place="margin">The Hos<g ref="char:EOLhyphen"/>pital.</note> Young <hi>Edwards Other Gift</hi> for <hi>pious Use</hi>
+               </l>
+               <l>Dofts his old skin, and gorgeous Youth renevvs,</l>
+               <l>As if cold Charity by Fire reviv'd,</l>
+               <l>Only in flames, like <hi>Salamanders</hi> liv'd;</l>
+               <l>Or else that men believ'd those swift Repairs</l>
+               <l>So soon were hastened by the Orphans pray'rs.</l>
+            </lg>
+            <lg>
+               <l>In the same place where formerly it stood,</l>
+               <l>The <hi>Commons</hi>
+                  <note n="(h)" place="margin">Doctors Commons.</note> make their Ancient station good:</l>
+               <l>Where Strangers, now, as well the Structure draws,</l>
+               <l>As the advantage of their Native Laws.</l>
+            </lg>
+            <lg>
+               <l>The <note n="(i)" place="margin">The pub<g ref="char:EOLhyphen"/>lick Halls.</note>
+                  <hi>Publick Halls</hi> appear in every part,</l>
+               <l>Built to encourage every useful <hi>Art;</hi>
+               </l>
+               <l>Where <hi>Lacedemon-</hi>like the City meet,</l>
+               <l>And keep their <hi>Publick Feasts</hi> in every street;</l>
+               <l>Where every Art becomes a <hi>Mystery,</hi>
+               </l>
+               <l>Sworn not to let rewards of Labour dye.</l>
+               <l>Sweet <hi>Little Oxford,</hi> whose voluptuous site</l>
+               <l>Did all the Nation in distress invite;</l>
+               <pb facs="tcp:211304:8"/>
+               <l> And lodging the vast Trains of Law and Court,</l>
+               <l>Made <hi>Europe</hi> ring with general Report;</l>
+               <l>Confesses now her glory overcome,</l>
+               <l>By her <hi>Metropolis,</hi> that here makes room</l>
+               <l>To feast the World with such Magnificence,</l>
+               <l>Where <hi>Benefactors</hi> are at no expence.</l>
+            </lg>
+            <lg>
+               <l>One stands among the <hi>Croud,</hi> which he that sees,</l>
+               <l>Beholds the <hi>truth</hi> of <note n="(l)" place="margin">Blackwel<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> hall.</note>
+                  <hi>Jason's Golden Fleece,</hi>
+               </l>
+               <l>The Kingdoms <hi>Loadstone,</hi> whose <hi>Magnetick Force,</hi>
+               </l>
+               <l>Attracts the Treasure of the <hi>Universe;</hi>
+               </l>
+               <l>Where they that see the heaps of <hi>Lemster Ore</hi>
+               </l>
+               <l>With all the <hi>vaster Spoils,</hi> and <hi>pretious Store</hi>
+               </l>
+               <l>Of <hi>smoother Plains,</hi> and <hi>far-extending Downs,</hi>
+               </l>
+               <l>Cloathing the Peasant, and enrobing Crowns:</l>
+               <l>Finding the world deceiv'd, more truly hold</l>
+               <l>
+                  <hi>Pan,</hi> and not <hi>Pluto,</hi> for the <hi>God of Gold.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor can the toyling Workmans ruder Hurrey,</l>
+               <l>Deafen the Ear to Learnings Oratory,</l>
+               <l>Learning is still advanc'd, the prop of all,</l>
+               <l>By those <hi>Gamaliels,</hi> to the <hi>Learn'd</hi> St. <hi>Paul,</hi>
+               </l>
+               <l>The <hi>Guild of Mercers,</hi> who with eager haste,</l>
+               <l>Lest pityed youth their pretious time should waste,</l>
+               <l>While their own Interests neglected stand,</l>
+               <l>Build up their <hi>Old Gymnasium</hi> out of hand.</l>
+               <l>Finish'd with so much beauty that it seems</l>
+               <l>A Subject only for their Scholars Theams.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:211304:9"/>
+               <l>Nor needs Devotion soft Petitions make,</l>
+               <l>While every Parish strives to undertake</l>
+               <l>Their several Temples swift Repair, before</l>
+               <l>Exhorting whispers could their Aid implore.</l>
+               <l>Saint <hi>Dunstan</hi> happy first, who first did feel</l>
+               <l>The Comfort of a <hi>Noble Matrons</hi> zeal,</l>
+               <l>That left a powerful Charm to chace away</l>
+               <l>Those Gospel-Devils that in Ruins lay,</l>
+               <l>Unwilling <hi>they</hi> should now those <hi>Tombs</hi> molest,</l>
+               <l>Where <hi>She her self</hi> was gone to take <hi>her rest.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No less Saint <hi>Mary Woolnoth</hi>
+                  <note n="(k)" place="margin">
+                     <hi>The New Church in</hi> Lumbard-Street,</note> owes to <hi>Thee</hi>
+               </l>
+               <l>
+                  <hi>Renowned VINER,</hi> Rich in Piety:</l>
+               <l>That lives in happy ignorance, which is more,</l>
+               <l>Thy <hi>Wealth</hi> on <hi>Earth,</hi> or thy <hi>Celestial Store:</hi>
+               </l>
+               <l>Two Stately Quires, where while the Organ plays,</l>
+               <l>The <hi>Vocall</hi> VValls repeat the Founders Praise.</l>
+               <l>If one fair Temple did so busie Fame,</l>
+               <l>With the continual sound of <hi>Sions</hi> Name,</l>
+               <l>Where can she find but from an Angels blast,</l>
+               <l>Assistance loud and long enough to last</l>
+               <l>The toylsome Praise of our <hi>Seraphick</hi> Glory,</l>
+               <l>VVhere every Temple is a <hi>Sions</hi> Story?</l>
+               <l>So many, that she spares from her large store</l>
+               <l>To several that in Forein Tongues adore,</l>
+               <l>A <hi>Holy Babel</hi> Muster'd from abroad,</l>
+               <l>VVhere <hi>Languages confus'd,</hi> now worship God.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:211304:9"/>
+               <l>But for <hi>Thee, Pauls,</hi> thy greatness brings <hi>Thee</hi> low,</l>
+               <l>Shame on ill <hi>Neighbours,</hi> and a <hi>Restless Foe,</hi>
+               </l>
+               <l>That keeps thy Soveraign from his quiet Peace,</l>
+               <l>And still his pious thoughts for <hi>Thee</hi> suppress,</l>
+               <l>Else would he dye for <hi>Thee,</hi> and raise thy Frame</l>
+               <l>As high as is his own immortal Fame;</l>
+               <l>Yet still like some Commander slain, vve see</l>
+               <l>Thy greatness living in the vvant of <hi>Thee;</hi>
+               </l>
+               <l>For Thou art only wanting, only Thou</l>
+               <l>To make all <hi>Cities</hi> to our <hi>City</hi> bow.</l>
+            </lg>
+            <lg>
+               <l>Nor need we wonder whence this Grandeur flows,</l>
+               <l>While <hi>Thamesis</hi> so near his lustre shews,</l>
+               <l>Who proud of his Imployment, every day</l>
+               <l>Sends his smooth <hi>Torrent</hi> posting to the Sea,</l>
+               <l>That still returns as often to unlade</l>
+               <l>The Massie Burthens of enriching <hi>Trade;</hi>
+               </l>
+               <l>Where now a <hi>Noble Key</hi> with open room,</l>
+               <l>Welcomes the <hi>Seaman,</hi> and the <hi>Vessel</hi> home,</l>
+               <l>And finding the faint stream sink from its weight,</l>
+               <l>On her own shoulders takes the Pond'rous Freight,</l>
+               <l>A <hi>Sumptuous Key,</hi> but yet more <hi>Sumptuous</hi> made</l>
+               <l>By that <hi>Fair Pile,</hi> where <hi>Caesars Tribute</hi> paid,</l>
+               <l>Supports the <hi>Strength</hi> that keeps his Kingdome safe,</l>
+               <l>That tames the <hi>Lyon,</hi> breaks the <hi>Ragged Staffe.</hi>
+               </l>
+               <pb facs="tcp:211304:10"/>
+               <l> Makes the submissive Crescent beg for <hi>Truce,</hi>
+               </l>
+               <l>And from her <hi>Maintop</hi> crops the <hi>Flow'r deluce.</hi>
+               </l>
+               <l>The <hi>Tower</hi> which Noble <hi>Robinson</hi> makes good,</l>
+               <l>Removes the vvooden heaps that late withstood</l>
+               <l>Her gay delight to view the new Repair,</l>
+               <l>And while her <hi>Standard</hi> wantons in the air,</l>
+               <l>Encourag'd by the Prospects influence,</l>
+               <l>To outward succour and her own defence,</l>
+               <l>Calls <hi>Caesar</hi> now to got his pains rewarded,</l>
+               <l>That built the Strength that such a City guarded.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Rise Drowsie STOW,</hi> and once more overlook</l>
+               <l>With thy old diligence, thy ancient Book;</l>
+               <l>Take to thy self <hi>Cornelius Hollands</hi> Quill,</l>
+               <l>And like to him thy <hi>Numerous</hi> pages fill;</l>
+               <l>For though thy Task were hard before, it now</l>
+               <l>Requires the trebled labour of thy Brow,</l>
+               <l>To speak of <hi>Lanes</hi> like <hi>Streets,</hi> and <hi>Streets</hi> like <hi>Towns,</hi>
+               </l>
+               <l>Where <hi>Houses</hi> wear their <hi>Terrases</hi> like <hi>Crowns,</hi>
+               </l>
+               <l>VVhere <hi>Embassies</hi> may ride and feed their eyes</l>
+               <l>VVith a <hi>long Scale</hi> of new <hi>Varieties,</hi>
+               </l>
+               <l>VVhere each Balcony'd Front, well read, appears</l>
+               <l>A Story worthy of their Princes ears;</l>
+               <l>To tell of Palaces, where now we find</l>
+               <l>A race of Cities to the City joyn'd.</l>
+               <l>To tell of Markets, now like <hi>Piazza's</hi> made,</l>
+               <l>Far from the Street to ampler space convay'd,</l>
+               <pb facs="tcp:211304:10"/>
+               <l> So vvell contriv'd both for Supply and Place,</l>
+               <l>That former trouble novv becomes a grace,</l>
+               <l>But vvhen you name the Place, to tell the store</l>
+               <l>That vveek by vveek, the single vveeks devour,</l>
+               <l>Is such an unexhausted Miracle,</l>
+               <l>That all the World could never parallel.</l>
+               <l>To tell how <hi>Little Fleet</hi> was cleans'd once more,</l>
+               <l>To bring advantage to the Neighbouring shore,</l>
+               <l>As if the City now her force did bend</l>
+               <l>To make the scorned Stream her bosome friend,</l>
+               <l>Who makes the <hi>publick Nusance, publick Good,</hi>
+               </l>
+               <l>Owing for beauty and plenty to the <hi>Flood.</hi>
+               </l>
+               <l>To tell how soon, as men had men been born,</l>
+               <l>The City saw her Ancient Trade return,</l>
+               <l>And then to tell of Hills that level made,</l>
+               <l>Give easie passage to the course of Trade:</l>
+               <l>To tell how every <hi>Publick</hi> house assumes</l>
+               <l>The State of Palaces in lofty Rooms,</l>
+               <l>As if, by hidden signs they did presage</l>
+               <l>The War-like Triumphs of the present age.</l>
+               <l>To tell the prodigies of <hi>Fine</hi> and <hi>Rent,</hi>
+               </l>
+               <l>Which <hi>Trade</hi> returns, as if not paid, but lent,</l>
+               <l>While <hi>Coffee,</hi> Prophet-like, despis'd at home,</l>
+               <l>Grows Rich abroad, and for a single Room,</l>
+               <l>More like some great <hi>Seraglio,</hi> dares advance</l>
+               <l>A Sum to set a Marquess up in <hi>France.</hi>
+               </l>
+               <pb facs="tcp:211304:11"/>
+               <l> VVhich straight flovvs back in Tides of single pence,</l>
+               <l>These things become thy <hi>new Intelligence,</hi>
+               </l>
+               <l>And then eternal Monuments to raise</l>
+               <l>Worthy the <hi>Builders</hi> and <hi>Contrivers</hi> Praise,</l>
+               <l>VVorthy the pains of those whose honour'd care</l>
+               <l>Did <hi>private Time</hi> to <hi>Publick Duty</hi> spare.</l>
+               <l>Such Records would thy nevv Edition svvell</l>
+               <l>Until it grevv to Manly Miracle,</l>
+               <l>VVhose every Page vvould be a vvondrous Story,</l>
+               <l>Relating <hi>wonders</hi> of a <hi>Wonder's</hi> Glory.</l>
+            </lg>
+            <lg>
+               <l>Thus Cities, like to men, their periods have,</l>
+               <l>From Youth to Age, from Age unto the Grave,</l>
+               <l>Making their mortal progress, till at last</l>
+               <l>The <hi>Common Bane</hi> of Countries layes'em vvaste:</l>
+               <l>So <hi>London</hi> seem'd to fall, vvhose <hi>drooping Age</hi>
+               </l>
+               <l>Could not resist the <hi>Burning Feavers</hi> rage:</l>
+               <l>But now, as if the <hi>Fiery Hurricane</hi>
+               </l>
+               <l>For <hi>Death</hi> himself had laid a <hi>subtile traine;</hi>
+               </l>
+               <l>Death in the <hi>Cities fate</hi> now finds <hi>his own,</hi>
+               </l>
+               <l>And <hi>buried</hi> lyes in <hi>Resurrection.</hi>
+               </l>
+               <l>So <hi>former Favourites</hi> of the <hi>Deities</hi>
+               </l>
+               <l>Were straight reviv'd in <hi>Metamorphosis.</hi>
+               </l>
+               <l>
+                  <hi>Narcissus</hi> in a Flower his Life out-liv'd,</l>
+               <l>And <hi>Daphne</hi> in a Lawrel Death deceiv'd.</l>
+               <pb facs="tcp:211304:11"/>
+               <l> Thus rose the City from her <hi>Funeral Pile,</hi>
+               </l>
+               <l>The <hi>New born Phaenix</hi> of an <hi>Ancient Isle;</hi>
+               </l>
+               <l>Or else like <hi>Enochs Change,</hi> that Death defeated,</l>
+               <l>From one unto another life translated.</l>
+               <l>If from the Cinders of one City, then</l>
+               <l>Such charming beauty can grow up again,</l>
+               <l>As she had only doff't her old Attire,</l>
+               <l>To rise more splendid from the <hi>Bed of Fire:</hi>
+               </l>
+               <l>If the <hi>quaint Flames</hi> are now such <hi>Artists</hi> grown,</l>
+               <l>To burn a City into such Renown;</l>
+               <l>As if they'd courted Ruine with intent</l>
+               <l>To make Her glorious in her Monument,</l>
+               <l>While Fire is but the Chariot that convays</l>
+               <l>To a <hi>New Life</hi> the soon-repair'd Decays.</l>
+               <l>What Pomp is then for th' other World design'd,</l>
+               <l>VVhen it shall be by scorching flames refin'd?</l>
+               <l>'Tis still but Fire, Gods <hi>Active Minister,</hi>
+               </l>
+               <l>That must <hi>that Work</hi> perform, and <hi>Seats</hi> prepare</l>
+               <l>Of burnish'd Gold, and polish'd Jasper Stones,</l>
+               <l>For the <hi>Bright Lamb,</hi> and all his <hi>Holy Ones.</hi>
+               </l>
+               <l>'Tis Fire that must the <hi>Sun</hi> it self <hi>benight,</hi>
+               </l>
+               <l>And give his Room to more Refulgent Light,</l>
+               <l>'Tis <hi>That same Fire,</hi> that was the Cities <hi>Bane,</hi>
+               </l>
+               <l>To give it more <hi>Illustrious Life</hi> again,</l>
+               <l>That must remove the <hi>Old Worlds Rubbish</hi> Frame,</l>
+               <l>To set in place the <hi>New Jerusalem,</hi>
+               </l>
+               <pb facs="tcp:211304:12"/>
+               <l> VVhose Glory is too bright for Mans display,</l>
+               <l>And none so much as guess at, only they</l>
+               <l>That in the <hi>Mirror</hi> of <hi>Proportion</hi> see</l>
+               <l>
+                  <hi>LONDON RE-BUILT,</hi> the <hi>WORLD'S EPITOME.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page.</hi> 3. <hi>line</hi> 19. <hi>for</hi> To <hi>read</hi> So. <hi>p.</hi> 8. <hi>l.</hi> 7. <hi>for</hi> Tract <hi>read</hi> haste.</p>
+            <pb facs="tcp:211304:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
